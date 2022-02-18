@@ -1,3 +1,3 @@
-module laba2
+module square
 
 go 1.17
